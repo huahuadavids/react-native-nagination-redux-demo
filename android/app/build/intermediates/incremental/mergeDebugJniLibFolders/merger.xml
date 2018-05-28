@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/nuoxi/Desktop/RN/vercoin/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/nuoxi/Desktop/RN/vercoin/android/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/nuoxi/Desktop/react-native-nagination-redux-demo/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/nuoxi/Desktop/react-native-nagination-redux-demo/android/app/src/debug/jniLibs"/></dataSet></merger>

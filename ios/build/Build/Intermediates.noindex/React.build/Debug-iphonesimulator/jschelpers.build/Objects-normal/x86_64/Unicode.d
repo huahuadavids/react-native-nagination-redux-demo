@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/nuoxi/Desktop/RN/vercoin/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
-  /Users/nuoxi/Desktop/RN/vercoin/node_modules/react-native/ReactCommon/jschelpers/Unicode.h
+  /Users/nuoxi/Desktop/react-native-nagination-redux-demo/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
+  /Users/nuoxi/Desktop/react-native-nagination-redux-demo/node_modules/react-native/ReactCommon/jschelpers/Unicode.h

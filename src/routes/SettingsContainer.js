@@ -37,7 +37,7 @@ class MyNotificationsScreen extends React.Component {
 
   render() {
     return (
-      <View style={styles.view}>
+      <View style={[styles.view, styles.font]}>
         <Button
           onPress={() => this.props.navigation.goBack()}
           title="Go back home"
@@ -56,6 +56,9 @@ const styles = StyleSheet.create({
     flex: 1 ,
     justifyContent: "center",
     alignItems: "center"
+  },
+  font: {
+      fontSize: 12 
   }
 });
 

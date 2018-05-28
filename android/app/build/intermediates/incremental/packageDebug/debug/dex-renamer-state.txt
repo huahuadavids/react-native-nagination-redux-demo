@@ -1,4 +1,4 @@
-#Thu May 24 18:08:18 CST 2018
-base.0=/Users/nuoxi/Desktop/RN/vercoin/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Mon May 28 13:33:48 CST 2018
+base.0=/Users/nuoxi/Desktop/react-native-nagination-redux-demo/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
